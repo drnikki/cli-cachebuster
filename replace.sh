@@ -2,7 +2,6 @@
 
 # redic replace placeholder never to appear in code organically
 OLDVALUE="REPLACEMEWITHTAGFORSTUPIDCACHE" 
-OLDVALUE="fool"
 # coming straight from the commandline
 NEWVALUE="$1" 
 
